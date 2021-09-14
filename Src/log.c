@@ -1,4 +1,0 @@
-#include "Log.h"
-
-
-void 
